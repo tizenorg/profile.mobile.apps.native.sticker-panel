@@ -1,0 +1,132 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Tühista"
+
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "Avaekraani taustpilt"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "Galerii"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Teavitus"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "Avaekraan"
+
+msgid "IDS_ST_HEADER_LOCK_SCREEN"
+msgstr "Lukustusekraan"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "Taustpilt"
+
+msgid "IDS_ST_BODY_HOME_AND_LOCK_SCREEN"
+msgstr "Ava- ja lukustusekraan"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "Avaekraani seaded"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "Avaekraani tüüp"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "Tühista"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "Avaleht"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "Vaikimisi avaekraan"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "Avaekr.-ks"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "Vali rakendus"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "Lihtne režiim"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "Avaekraani uldist paigutust lihtsustatakse."
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "Avaekraani stiil"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "Taustpildid"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "Funktsioon %s ei toeta ekraanilugejat. Eelmisele ekraanile naasmiseks vajutage tagasiliikumise klahvi."
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "Tehke valik."
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "Menüü"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "Spiraal"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "Sisemine kuubik"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "Välimine kuubik"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "Karusell"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "Lehel liikumise efekt"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "Vali taustpilt"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "Lihtsat režiimi saab desaktiveerida menüüs Seaded"
+
+msgid "IDS_HS_OPT_DISABLE_EASY_MODE"
+msgstr "Desaktiveeri lihtne režiim"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D-pööramine"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Laadimine..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "Fonti saab muuta suuremaks, et teksti oleks lihtsam lugeda. Kas muuta fondi suurust kohe?"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "Muuda"
+
+msgid "IDS_ST_ACHEADER2_HOME_SCREEN_STYLE"
+msgstr "AVAEKRAANI STIIL"
+
+msgid "IDS_HS_ACHEADER2_HOME_SCREEN"
+msgstr "AVAEKRAAN"
+
+msgid "IDS_COM_HEADER_SELECT_WALLPAPER"
+msgstr "Vali taustpilt"
+
+msgid "IDS_ST_BODY_SLIDE"
+msgstr "Slaid"
+
+msgid "IDS_ST_BUTTON2_DEFAULT_WALLPAPERS_ABB"
+msgstr "Vaike-\ntaustpildid"
+
+msgid "IDS_HS_BUTTON_DISABLE_ABB"
+msgstr "Desaktiveeri"
+
+msgid "IDS_STRAVEL_OPT_TRAVEL_WALLPAPER_ABB"
+msgstr "Reisitaustpilt"
+
+msgid "IDS_HS_POP_DISABLE_EASY_MODE_Q"
+msgstr "Kas desaktiveerida lihtne režiim?"
+
+msgid "IDS_ST_HEADER_CHANGE_FONT_SIZE_ABB"
+msgstr "Muuda fondi suurust"
+
+msgid "IDS_HELP_BODY_CUBE"
+msgstr "Kuubik"
+

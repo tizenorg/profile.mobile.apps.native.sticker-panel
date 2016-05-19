@@ -1,0 +1,7 @@
+$1 pulseaudio rwxat
+$1 aul::launch x
+$1 isf rwx
+$1 syslogd w
+$1 tts-server rwx
+$1 ug.gallerry-efl include
+$1 ug.image-viewer-efl include

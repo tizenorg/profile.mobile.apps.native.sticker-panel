@@ -1,0 +1,132 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Otkaži"
+
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "Tapet početnog ekrana"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "Galerija"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Obaveštenje"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "Početni ekran"
+
+msgid "IDS_ST_HEADER_LOCK_SCREEN"
+msgstr "Zaključavanje ekrana"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "Tapet"
+
+msgid "IDS_ST_BODY_HOME_AND_LOCK_SCREEN"
+msgstr "Početni i zaključani ekran"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "Podešavanja početnog ekrana"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "Tip početnog ekrana"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "Otkaži"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "Početni ekran"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "Podrazumevani početni ekran"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "Kao početni"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "Izaberi aplikaciju"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "Jednostavan režim"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "Ukupan raspored na početnom ekranu će biti pojednostavljen."
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "Stil početnog ekrana"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "Tapeti"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "%s ne podržava čitač ekrana. Pritisni taster Nazad za vraćanje na prethodni ekran."
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "Izaberi neku opciju."
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "Meni"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "Spirala"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "Unutrašnja kocka"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "Spoljašnja kocka"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "Ringišpil"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "Efekat navigacije po stranici"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "Izaberi tapet iz"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "Jednostavan režim može da se onemogući u Podešavanjima"
+
+msgid "IDS_HS_OPT_DISABLE_EASY_MODE"
+msgstr "Onemogući Jednostavni režim"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D rotacija"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Učitavanje..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "Veličina fonta može da se poveća da bi se tekst lakše čitao. Promeniti veličinu fonta sada?"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "Promeni"
+
+msgid "IDS_ST_ACHEADER2_HOME_SCREEN_STYLE"
+msgstr "STIL POČETNOG EKRANA"
+
+msgid "IDS_HS_ACHEADER2_HOME_SCREEN"
+msgstr "POČETNI EKRAN"
+
+msgid "IDS_COM_HEADER_SELECT_WALLPAPER"
+msgstr "Izaberi tapet"
+
+msgid "IDS_ST_BODY_SLIDE"
+msgstr "Slajd"
+
+msgid "IDS_ST_BUTTON2_DEFAULT_WALLPAPERS_ABB"
+msgstr "Podrazum. tapeti"
+
+msgid "IDS_HS_BUTTON_DISABLE_ABB"
+msgstr "Onemogući"
+
+msgid "IDS_STRAVEL_OPT_TRAVEL_WALLPAPER_ABB"
+msgstr "Turistički tapet"
+
+msgid "IDS_HS_POP_DISABLE_EASY_MODE_Q"
+msgstr "Onemogući Jednostavan režim?"
+
+msgid "IDS_ST_HEADER_CHANGE_FONT_SIZE_ABB"
+msgstr "Promeni veličinu fonta"
+
+msgid "IDS_HELP_BODY_CUBE"
+msgstr "Kocka"
+

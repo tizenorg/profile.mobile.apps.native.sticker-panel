@@ -1,0 +1,132 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Тоқтату"
+
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "Бастапқы экран түсқағазы"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "Галерея"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Хабарландыру"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "Бастапқы экран"
+
+msgid "IDS_ST_HEADER_LOCK_SCREEN"
+msgstr "Экранды құлыптау"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "Түсқағаз"
+
+msgid "IDS_ST_BODY_HOME_AND_LOCK_SCREEN"
+msgstr "Бастапқы және құлып экраны"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "Бастапқы экран параметрлері"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "Бастапқы экран түрі"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "Тоқтату"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "Бейнебеттің өзіндік беті"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "Әдепкі бастапқы экран"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "Бас. орнату"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "Бағдарлама таңдау"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "Жеңіл режим"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "Бастапқы экранның жалпы орналасуы жеңілдетіледі."
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "Басты экран стилі"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "Түсқағаз"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "Экран оқу құралы %s тарапынан берілмеген. Алдыңғы экранға қайту үшін Артқа пернесін басыңыз"
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "Опцияны таңдаңыз."
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "Мәзір"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "Спираль"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "Ішкі куб"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "Сыртқы куб"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "Карусель"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "Бет шарлау әсері"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "Түсқағаз таңдау"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "Жеңіл режимді Параметрлерде өшіруге болады"
+
+msgid "IDS_HS_OPT_DISABLE_EASY_MODE"
+msgstr "Жеңіл режимді өшіру"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D бұру"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Жазылуда..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "Мәтінді оқуды жеңілдету үшін, қаріп өлшемі жоғарылауы мүмкін. Қаріп өлшемін қазір өзгерту керек пе?"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "Өзгерту"
+
+msgid "IDS_ST_ACHEADER2_HOME_SCREEN_STYLE"
+msgstr "БАСТАПҚЫ ЭКРАН СТИЛІ"
+
+msgid "IDS_HS_ACHEADER2_HOME_SCREEN"
+msgstr "БАСТАПҚЫ ЭКРАН"
+
+msgid "IDS_COM_HEADER_SELECT_WALLPAPER"
+msgstr "Түсқағаз таңдау"
+
+msgid "IDS_ST_BODY_SLIDE"
+msgstr "Слайд"
+
+msgid "IDS_ST_BUTTON2_DEFAULT_WALLPAPERS_ABB"
+msgstr "Әдепкі тұсқағаздар"
+
+msgid "IDS_HS_BUTTON_DISABLE_ABB"
+msgstr "Өшіру"
+
+msgid "IDS_STRAVEL_OPT_TRAVEL_WALLPAPER_ABB"
+msgstr "Саяхат түсқағазы"
+
+msgid "IDS_HS_POP_DISABLE_EASY_MODE_Q"
+msgstr "Жеңіл режимді өшіру керек пе?"
+
+msgid "IDS_ST_HEADER_CHANGE_FONT_SIZE_ABB"
+msgstr "Қаріп өлшемін өзгерту"
+
+msgid "IDS_HELP_BODY_CUBE"
+msgstr "Текше"
+

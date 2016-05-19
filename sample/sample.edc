@@ -1,0 +1,79 @@
+/*
+ * Samsung API
+ * Copyright (c) 2015 Samsung Electronics Co., Ltd.
+ *
+ * Licensed under the Apache License, Version 2.0 (the License);
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/license/
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an AS IS BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+
+
+styles {
+	style {
+		name: "text_style";
+		base: "font=Tizen:style=Bold font_size=24 color=#ffffff align=center style=shadow shadow_color=#000000bf wrap=mixed";
+		tag:  "br" "\n";
+		tag:  "hilight" "+ font_weight=Bold";
+		tag:  "b" "+ font_weight=Bold";
+		tag:  "tab" "\t";
+	}
+}
+
+collections {
+	base_scale: 2.6;
+	group {
+		name: "layout";
+		parts {
+			part {
+				name: "bg";
+				type: RECT;
+				scale: 1;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.0 0.0; }
+					rel2 { relative: 1.0 1.0; }
+					color: 255 255 255 255;
+					visible: 1;
+				}
+			}
+			part {
+				name: "button";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.1 0.1; to: "bg"; }
+					rel2 { relative: 0.9 0.2; to: "bg"; }
+					visible: 1;
+				}
+			}
+			part {
+				name: "sw.icon";
+				type: SWALLOW;
+				description {
+					state: "default" 0.0;
+					rel1 { relative: 0.05 0.25; to: "bg"; }
+					rel2 { relative: 0.95 1.0; to: "bg"; }
+					fixed: 0 1;
+					visible: 1;
+				}
+			}
+		}
+		programs {
+			program {
+				name: "bg,up";
+				signal: "mouse,up,1";
+				source: "bg";
+				action: SIGNAL_EMIT "bg,up" "bg";
+			}
+		}
+	}
+}

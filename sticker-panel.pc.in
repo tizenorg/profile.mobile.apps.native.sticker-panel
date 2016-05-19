@@ -1,0 +1,9 @@
+libdir=@LIBDIR@
+includedir=@INCLUDEDIR@
+
+Name: sticker-panel
+Description: sticker-panel supporting library
+Version: @VERSION@
+Requires: capi-base-common
+Libs: -L${libdir} -lsticker-panel
+Cflags: -I${includedir}

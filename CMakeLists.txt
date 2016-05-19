@@ -1,0 +1,84 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+
+PROJECT(sticker-panel C)
+
+SET(VERSION 0.1.0)
+
+SET(PREFIX ${CMAKE_INSTALL_PREFIX})
+SET(INCLUDEDIR "${PREFIX}/include/${PROJECT_NAME}")
+
+SET(LIBDIR "${LIB_INSTALL_DIR}")
+
+SET(ICONDIR "${SHAREDIR}/icons")
+SET(PANELDIR "${SHAREDIR}/${PROJECT_NAME}")
+
+SET(EDJEDIR "${PANELDIR}/edje")
+SET(IMAGEDIR "${PANELDIR}/images")
+SET(LOCALEDIR "${PANELDIR}/locale")
+SET(SAMPLEDIR "${PANELDIR}/sample")
+
+SET(INSTALL_HEADERS_DEVEL
+	sticker_panel.h
+)
+
+SET(SRCS
+	src/sticker_panel.c
+	src/grid.c
+	src/page.c
+	src/scroller.c
+	src/toolbar.c
+	src/ui_manager.c
+	src/naviframe.c
+	src/icon_info.c
+	src/db.c
+	src/gesture.c
+	src/group_icon_info.c
+	src/setting.c
+)
+
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR}/include)
+INCLUDE(FindPkgConfig)
+pkg_check_modules(pkgs REQUIRED
+	capi-appfw-application
+	capi-base-common
+	appcore-efl
+	dlog
+	elementary
+	evas
+	feedback
+	isf
+	efl-extension
+	sqlite3
+	bundle
+)
+
+FOREACH(flag ${pkgs_CFLAGS})
+	SET(EXTRA_CFLAGS "${EXTRA_CFLAGS} ${flag}")
+ENDFOREACH(flag)
+
+SET(EXTRA_CFLAGS "${EXTRA_CFLAGS} -fvisibility=hidden -g -Wall -O2")
+SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${EXTRA_CFLAGS}")
+
+ADD_DEFINITIONS("-DPREFIX=\"${CMAKE_INSTALL_PREFIX}\"")
+ADD_DEFINITIONS("-DEDJEDIR=\"${EDJEDIR}\"")
+ADD_DEFINITIONS("-DLOCALEDIR=\"${LOCALEDIR}\"")
+ADD_DEFINITIONS("-DPANELDIR=\"${PANELDIR}\"")
+
+ADD_LIBRARY(${PROJECT_NAME} SHARED ${SRCS})
+SET_TARGET_PROPERTIES(${PROJECT_NAME} PROPERTIES SOVERSION 0.1.0)
+TARGET_LINK_LIBRARIES(${PROJECT_NAME} ${pkgs_LDFLAGS})
+
+INSTALL(TARGETS ${PROJECT_NAME} DESTINATION ${LIBDIR})
+INSTALL(FILES ${CMAKE_SOURCE_DIR}/res/A01-1_icon_Menu.png DESTINATION ${ICONDIR})
+
+CONFIGURE_FILE(${PROJECT_NAME}.pc.in ${PROJECT_NAME}.pc @ONLY)
+SET_DIRECTORY_PROPERTIES(PROPERTIES ADDITIONAL_MAKE_CLEAN_FILES "${PROJECT_NAME}.pc")
+INSTALL(FILES ${CMAKE_CURRENT_BINARY_DIR}/${PROJECT_NAME}.pc DESTINATION ${LIBDIR}/pkgconfig)
+
+FOREACH(hfile ${INSTALL_HEADERS_DEVEL})
+	INSTALL(FILES ${CMAKE_SOURCE_DIR}/include/${hfile} DESTINATION include/${PROJECT_NAME})
+ENDFOREACH(hfile)
+
+# subdir
+ADD_SUBDIRECTORY(res)
+ADD_SUBDIRECTORY(sample)

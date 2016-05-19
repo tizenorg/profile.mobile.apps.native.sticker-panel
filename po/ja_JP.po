@@ -1,0 +1,90 @@
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "ホーム画面の壁紙"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "ギャラリー"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "通知"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "ホーム画面"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "壁紙"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "ホーム画面設定"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "ホーム画面タイプ"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "キャンセル"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "ホーム画面"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "標準ホーム画面"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "ホームに設定"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "アプリケーションを選択"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "かんたんモード"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "ホーム画面の全体的なレイアウトがシンプルになります。"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "ホーム画面スタイル"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "壁紙"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "%sはスクリーンリーダーに対応していません。前の画面に戻るには、戻るキーを押してください。"
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "オプションを選択します。"
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "メニュー"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "スパイラル"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "インナーキューブ"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "アウターキューブ"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "メリーゴーランド"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "ページ移動エフェクト"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "壁紙を選択"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "[設定]からかんたんモードを無効にすることができます。"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D回転"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "読み込み中..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "テキストをさらに読みやすくするために、フォントサイズを大きくすることができます。今すぐフォントサイズを変更しますか？"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "変更"
+
