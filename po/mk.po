@@ -1,0 +1,90 @@
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "Заднина на осн. екран"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "Галерија"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Известување"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "Основен екран"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "Заднина"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "Опции за почетниот екран"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "Вид почетен екран"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "Откажи"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "Почетен екран"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "Основен почетен екран"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "Пост. почет."
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "Избери апликација"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "Лесен режим"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "Целиот распоред на почетниот екран ќе се поедностави."
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "Стил на почетниот екран"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "Заднини"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "Екранскиот читач не е поддржан од %s. Притиснете го копчето за назад за да се вратите на претходниот екран."
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "Изберете опција."
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "Мени"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "Спирала"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "Внатрешна коцка"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "Надворешна коцка"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "Карусел"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "Ефект за навигација низ страниците"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "Избери заднина од"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "Лесниот режим може да се исклучи во Опции"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "Завртување 3D"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Активирање..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "Големината на фонтот може да се зголеми за полесно читање на текстот. Да се смени големината на фонтот сега?"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "Смени"
+

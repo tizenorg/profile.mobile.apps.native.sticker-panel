@@ -1,0 +1,90 @@
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "主螢幕牆紙"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "媒體瀏覽器"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "通知"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "主螢幕"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "螢幕牆紙"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "主螢幕設定"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "主螢幕類型"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "取消"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "主螢幕"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "預設主螢幕"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "設為首頁"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "選擇應用程式"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "簡易模式"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "將簡化主螢幕的整體配置。"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "主螢幕樣式"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "螢幕牆紙"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "%s 不支援 Screen Reader 。請按下返回鍵以回到前一個螢幕。"
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "請選擇一個選項。"
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "功能表"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "螺旋"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "內立方"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "外立方"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "旋轉木馬"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "頁面導覽效果"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "選取螢幕牆紙來源"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "簡易模式可於設定中停用"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D 旋轉"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "正在載入..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "可增加字體大小以讓文字更易於閱讀。現在變更字體大小嗎？"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "更改"
+

@@ -1,0 +1,132 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Prekliči"
+
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "Ozadje za dom. zaslon"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "Galerija"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Obvestilo"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "Domači zaslon"
+
+msgid "IDS_ST_HEADER_LOCK_SCREEN"
+msgstr "Zaklenjen zaslon"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "Ozadje"
+
+msgid "IDS_ST_BODY_HOME_AND_LOCK_SCREEN"
+msgstr "Domači in zaklenjen zaslon"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "Nastavitve domačega zaslona"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "Vrsta domačega zaslona"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "Prekliči"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "Domači zaslon"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "Privzeti domači zaslon"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "Nast. domov"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "Izberite program"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "Preprosti način"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "Celotno ozadje domačega zaslona bo poenostavljeno."
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "Slog domačega zaslona"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "Ozadja"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "%s ne podpira bralnika zaslona. Pritisnite tipko za nazaj, da se vrnete na prejšnji zaslon."
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "Izberite možnost."
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "Meni"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "Spirala"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "Notranja kocka"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "Zunanja kocka"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "Vrtiljak"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "Učinek navigacije po strani"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "Izberite sliko za ozadje izmed"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "Preprosti način lahko onemogočite v meniju Nastavitve"
+
+msgid "IDS_HS_OPT_DISABLE_EASY_MODE"
+msgstr "Omogočanje preprostega načina"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D-vrtenje"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Nalaganje..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "Velikost pisave lahko povečate, da bo besedilo lažje brati. Želite spremeniti velikost pisave?"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "Spremeni"
+
+msgid "IDS_ST_ACHEADER2_HOME_SCREEN_STYLE"
+msgstr "SLOG DOMAČEGA ZASLONA"
+
+msgid "IDS_HS_ACHEADER2_HOME_SCREEN"
+msgstr "DOMAČI ZASLON"
+
+msgid "IDS_COM_HEADER_SELECT_WALLPAPER"
+msgstr "Izberite sliko za ozadje"
+
+msgid "IDS_ST_BODY_SLIDE"
+msgstr "Prehod"
+
+msgid "IDS_ST_BUTTON2_DEFAULT_WALLPAPERS_ABB"
+msgstr "Privzeta ozadja"
+
+msgid "IDS_HS_BUTTON_DISABLE_ABB"
+msgstr "Onemogoči"
+
+msgid "IDS_STRAVEL_OPT_TRAVEL_WALLPAPER_ABB"
+msgstr "Potovalno ozadje"
+
+msgid "IDS_HS_POP_DISABLE_EASY_MODE_Q"
+msgstr "Želite onemogočiti preprosti način?"
+
+msgid "IDS_ST_HEADER_CHANGE_FONT_SIZE_ABB"
+msgstr "Sprememba velikosti pisave"
+
+msgid "IDS_HELP_BODY_CUBE"
+msgstr "Kocka"
+

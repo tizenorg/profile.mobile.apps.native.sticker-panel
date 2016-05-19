@@ -1,0 +1,132 @@
+msgid "IDS_COM_SK_CANCEL"
+msgstr "Cancel"
+
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "Home screen wallpaper"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "Gallery"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "Notification"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "Home screen"
+
+msgid "IDS_ST_HEADER_LOCK_SCREEN"
+msgstr "Lock screen"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "Wallpaper"
+
+msgid "IDS_ST_BODY_HOME_AND_LOCK_SCREEN"
+msgstr "Home and lock screen"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "Home screen settings"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "Home screen type"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "Cancel"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "Home screen"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "Default home screen"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "Set as home"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "Select application"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "Easy mode"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "The overall layout of the home screen will be simplified."
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "Home screen style"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "Wallpapers"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "Screen reader is not supported by %s. Press the back key to return to the previous screen."
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "Select an option."
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "Menu"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "Spiral"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "Inner cube"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "Outer cube"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "Carousel"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "Page navigation effect"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "Select wallpaper from"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "Easy mode can be disabled in Settings."
+
+msgid "IDS_HS_OPT_DISABLE_EASY_MODE"
+msgstr "Disable Easy mode"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D Rotation"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "Loading..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "The font size can be increased to make text easier to read. Change the font size now?"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "Change"
+
+msgid "IDS_ST_ACHEADER2_HOME_SCREEN_STYLE"
+msgstr "HOME SCREEN STYLE"
+
+msgid "IDS_HS_ACHEADER2_HOME_SCREEN"
+msgstr "HOME SCREEN"
+
+msgid "IDS_COM_HEADER_SELECT_WALLPAPER"
+msgstr "Select wallpaper"
+
+msgid "IDS_ST_BODY_SLIDE"
+msgstr "Slide"
+
+msgid "IDS_ST_BUTTON2_DEFAULT_WALLPAPERS_ABB"
+msgstr "Default wallpapers"
+
+msgid "IDS_HS_BUTTON_DISABLE_ABB"
+msgstr "Disable"
+
+msgid "IDS_STRAVEL_OPT_TRAVEL_WALLPAPER_ABB"
+msgstr "Travel wallpaper"
+
+msgid "IDS_HS_POP_DISABLE_EASY_MODE_Q"
+msgstr "Disable Easy mode?"
+
+msgid "IDS_ST_HEADER_CHANGE_FONT_SIZE_ABB"
+msgstr "Change font size"
+
+msgid "IDS_HELP_BODY_CUBE"
+msgstr "Cube"
+

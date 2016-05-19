@@ -1,0 +1,72 @@
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "主屏墙纸"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "画廊"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "通知"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "主屏"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "墙纸"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "主屏设置"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "主屏类型"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "取消"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "主屏"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "默认主屏"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "设置为首页"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "选择应用程序"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "简易模式"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "主屏的总布局将简化"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "主屏风格"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "%s 不支援屏幕阅读器。请按下返回键以回到前一个屏幕"
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "选择一个选项。"
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "菜单"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "螺旋"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "内立方"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "外立方"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "旋转木马轮播"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "页面导航效果"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "选择墙纸来源"
+

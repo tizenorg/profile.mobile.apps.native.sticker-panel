@@ -1,0 +1,90 @@
+msgid "IDS_ST_MBODY_HOME_SCREEN_WALLPAPER"
+msgstr "होम स्क्रीन वॉलपेपर"
+
+msgid "IDS_ST_BODY_GALLERY"
+msgstr "गैलरी"
+
+msgid "IDS_COM_HEADER_NOTIFICATION"
+msgstr "अधिसूचना"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN_ABB"
+msgstr "होम स्क्रीन"
+
+msgid "IDS_ST_BODY_WALLPAPER"
+msgstr "वॉलपेपर"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_SETTINGS"
+msgstr "होम स्क्रीन सेटिंग्स"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_TYPE"
+msgstr "होम स्क्रीन प्रकार"
+
+msgid "IDS_COM_BUTTON_CANCEL"
+msgstr "रद्द"
+
+msgid "IDS_ST_HEADER_HOME_SCREEN"
+msgstr "होम स्क्रीन"
+
+msgid "IDS_ST_BODY_DEFAULT_HOME_SCREEN"
+msgstr "डिफ़ॉल्ट होम स्क्रीन"
+
+msgid "IDS_ST_BUTTON2_SET_AS_HOME"
+msgstr "होम जैसे सेट"
+
+msgid "IDS_ST_BODY_SELECT_APPLICATION"
+msgstr "एप्लीकेशन चुनें"
+
+msgid "IDS_ST_BODY_EASY_MODE"
+msgstr "आसान मोड"
+
+msgid "IDS_ST_BODY_THE_OVERALL_LAYOUT_OF_THE_HOME_SCREEN_WILL_BE_SIMPLIFIED"
+msgstr "होम स्क्रीन का संपूर्ण लेआउट सरलीकृत किया जाएगा"
+
+msgid "IDS_ST_BODY_HOME_SCREEN_STYLE"
+msgstr "होम स्क्रीन शैली"
+
+msgid "IDS_LCKSCN_BODY_WALLPAPERS"
+msgstr "वॉलपेपर्स"
+
+msgid "IDS_SCR_POP_SCREEN_READER_IS_NOT_SUPPORTED_BY_PS_PRESS_THE_BACK_KEY_TO_RETURN_TO_THE_PREVIOUS_SCREEN"
+msgstr "स्क्रीन रीडर %s द्वारा समर्थित नहीं है। पिछली स्क्रीन पर लौटने के लिए पीछे कुंजी दबाएँ।"
+
+msgid "IDS_HELP_BODY_SELECT_AN_OPTION"
+msgstr "कोई विकल्प चुनें।"
+
+msgid "IDS_COM_BODY_MENU_ABB"
+msgstr "मेन्यू"
+
+msgid "IDS_HS_OPT_SPIRAL"
+msgstr "स्पाइरल"
+
+msgid "IDS_HS_OPT_INNER_CUBE"
+msgstr "आंतरिक घन"
+
+msgid "IDS_HS_OPT_OUTER_CUBE"
+msgstr "बाह्य घन"
+
+msgid "IDS_HS_OPT_CAROUSEL"
+msgstr "कैरोसेल"
+
+msgid "IDS_HS_HEADER_PAGE_NAVIGATION_EFFECT"
+msgstr "पेज नेविगेशन प्रभाव"
+
+msgid "IDS_ST_HEADER_SELECT_WALLPAPER_FROM_ABB"
+msgstr "इस से वॉलपेपर चुनें"
+
+msgid "IDS_HS_POP_EASY_MODE_CAN_BE_DISABLED_IN_SETTINGS"
+msgstr "सेटिंग्स में आसान मोड को अक्षम किया जा सकता है"
+
+msgid "IDS_ST_BODY_3D_ROTATION_M_EFFECT"
+msgstr "3D रोटेशन"
+
+msgid "IDS_ST_BODY_LOADING_ING"
+msgstr "लोड हो रहा है..."
+
+msgid "IDS_ST_POP_THE_FONT_SIZE_CAN_BE_INCREASED_TO_MAKE_TEXT_EASIER_TO_READ_CHANGE_THE_FONT_SIZE_NOW_Q"
+msgstr "टेक्‍स्‍ट को पढ़ने में आसान बनाने के लिए फ़ॉन्ट आकार को बढ़ाया जा सकता है। फ़ॉन्ट आकार अभी परिवर्तित करें?"
+
+msgid "IDS_ST_SK_CHANGE"
+msgstr "बदलें"
+
