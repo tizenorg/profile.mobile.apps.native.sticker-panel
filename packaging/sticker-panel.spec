@@ -84,7 +84,7 @@ chmod 666 /opt/dbspace/.sticker_panel.db*
 
 %files
 %manifest %{name}.manifest
-%{_prefix}/lib/*.so*
+%{_libdir}/*.so*
 %{_datadir}/sticker-panel/edje/*.edj
 %{_datadir}/sticker-panel/images/*
 %{_datadir}/sticker-panel/sample/*
