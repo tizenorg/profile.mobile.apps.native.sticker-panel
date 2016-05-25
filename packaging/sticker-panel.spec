@@ -84,7 +84,11 @@ chmod 666 /opt/dbspace/.sticker_panel.db*
 
 %files
 %manifest %{name}.manifest
+%ifarch aarch64
+%{_prefix}/lib64/*.so*
+%else
 %{_prefix}/lib/*.so*
+%endif
 %{_datadir}/sticker-panel/edje/*.edj
 %{_datadir}/sticker-panel/images/*
 %{_datadir}/sticker-panel/sample/*
