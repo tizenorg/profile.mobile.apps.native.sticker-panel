@@ -124,6 +124,7 @@ static char *__strdup_tab_thumbnail_path(const char *dir_path)
 	char file_path[PATH_LEN] = {0, };
 	char *tab_thumbnail = NULL;
 	DIR *dir_info = NULL;
+	struct dirent ent_struct;
 	struct dirent *dir_entry = NULL;
 	struct stat stat_buf = {0, };
 	int ret = 0;
@@ -133,7 +134,7 @@ static char *__strdup_tab_thumbnail_path(const char *dir_path)
 	dir_info = opendir(dir_path);
 	retv_if(!dir_info, NULL);
 
-	while ((dir_entry = readdir(dir_info))) {
+	while (!readdir_r(dir_info, &ent_struct, &dir_entry) && dir_entry) {
 		if (!strcmp(".", dir_entry->d_name) || !strcmp("..", dir_entry->d_name))
 			continue;
 
@@ -164,6 +165,7 @@ static char *__strdup_tab_thumbnail_path(const char *dir_path)
 static Eina_List *__append_preset_group_icon_info_list(Eina_List *group_icon_info_list, const char *preset_dir_path, sqlite3 *db)
 {
 	DIR *dir_info = NULL;
+	struct dirent ent_struct;
 	struct dirent *dir_entry = NULL;
 	struct stat stat_buf;
 	int max = 0;
@@ -177,7 +179,7 @@ static Eina_List *__append_preset_group_icon_info_list(Eina_List *group_icon_inf
 	retv_if(!dir_info, group_icon_info_list);
 
 	max = eina_list_count(group_icon_info_list);
-	while ((dir_entry = readdir(dir_info))) {
+	while (!readdir_r(dir_info, &ent_struct, &dir_entry) && dir_entry) {
 		group_icon_info_s *group_icon_info = NULL;
 		char dir_path[PATH_LEN] = {0, };
 		char icon_path[PATH_LEN] = {0, };

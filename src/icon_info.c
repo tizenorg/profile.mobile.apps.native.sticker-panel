@@ -53,6 +53,7 @@ static icon_info_s *__icon_info_parse_directory(const char *dir_path)
 {
 	icon_info_s *icon_info = NULL;
 	DIR *dir_info = NULL;
+	struct dirent ent_struct;
 	struct dirent *dir_entry = NULL;
 	int ret = 0;
 
@@ -68,12 +69,13 @@ static icon_info_s *__icon_info_parse_directory(const char *dir_path)
 	dir_info = opendir(dir_path);
 	goto_if(!dir_info, error);
 
-	while ((dir_entry = readdir(dir_info))) {
+	while (!readdir_r(dir_info, &ent_struct, &dir_entry) && dir_entry) {
 		icon_info_image_s *icon_info_image = NULL;
 		char *d_name = NULL;
 		char *filename = NULL;
 		char *ext = NULL;
 		char *tmp = NULL;
+		char *save_ptr = NULL;
 		char full_path[PATH_LEN] = {0, };
 		char thumbnail_file[PATH_LEN] = {0, };
 		struct stat stat_buf = {0, };
@@ -92,13 +94,13 @@ static icon_info_s *__icon_info_parse_directory(const char *dir_path)
 		icon_info_image->file = strdup(full_path);
 		goto_if(!icon_info_image->file, not_sticker);
 
-		filename = strtok(d_name, ".");
+		filename = strtok_r(d_name, ".", &save_ptr);
 		goto_if(!filename, not_sticker);
 
-		ext = strtok(NULL, ".");
+		ext = strtok_r(NULL, ".", &save_ptr);
 		goto_if(!ext, not_sticker);
 
-		tmp = strtok(filename, "_");
+		tmp = strtok_r(filename, "_", &save_ptr);
 		goto_if(!tmp, not_sticker);
 
 		if (!icon_info->keyword) {
@@ -106,7 +108,7 @@ static icon_info_s *__icon_info_parse_directory(const char *dir_path)
 			goto_if(!icon_info->keyword, not_sticker);
 		}
 
-		if ((tmp = strtok(NULL, "_"))) {
+		if ((tmp = strtok_r(NULL, "_", &save_ptr))) {
 			if (!strcmp(tmp, STICKER_IMG_NAME_TOKEN_SUB)) {
 				goto not_sticker;
 			} else if (!strcmp(tmp, STICKER_IMG_NAME_TOKEN_TH)) {
@@ -128,23 +130,23 @@ static icon_info_s *__icon_info_parse_directory(const char *dir_path)
 			}
 		} else goto next;
 
-		if ((tmp = strtok(NULL, "_")))
+		if ((tmp = strtok_r(NULL, "_", &save_ptr)))
 			icon_info_image->diff_time = atoi(tmp);
 		else goto next;
 
-		if ((tmp = strtok(NULL, "_")))
+		if ((tmp = strtok_r(NULL, "_", &save_ptr)))
 			icon_info->repeat = atoi(tmp);
 		else goto next;
 
-		if ((tmp = strtok(NULL, "_")))
+		if ((tmp = strtok_r(NULL, "_", &save_ptr)))
 			icon_info->interval = atoi(tmp);
 		else goto next;
 
-		if ((tmp = strtok(NULL, "_")))
+		if ((tmp = strtok_r(NULL, "_", &save_ptr)))
 			icon_info->play_type = atoi(tmp);
 		else goto next;
 
-		if ((tmp = strtok(NULL, "_")))
+		if ((tmp = strtok_r(NULL, "_", &save_ptr)))
 			icon_info->th_frame = atoi(tmp);
 
 next:
@@ -314,6 +316,7 @@ Eina_List *_icon_info_list_create_preset_package(const char *dir_path)
 {
 	Eina_List *icon_info_list = NULL;
 	DIR *dir_info = NULL;
+	struct dirent ent_struct;
 	struct dirent *dir_entry = NULL;
 	struct stat stat_buf;
 	int ret = 0;
@@ -323,7 +326,7 @@ Eina_List *_icon_info_list_create_preset_package(const char *dir_path)
 	dir_info = opendir(dir_path);
 	retv_if(!dir_info, NULL);
 
-	while ((dir_entry = readdir(dir_info))) {
+	while (!readdir_r(dir_info, &ent_struct, &dir_entry) && dir_entry) {
 		char icon_path[PATH_LEN] = {0, };
 		snprintf(icon_path, sizeof(icon_path), "%s/%s", dir_path, dir_entry->d_name);
 
