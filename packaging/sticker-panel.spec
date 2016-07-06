@@ -79,7 +79,7 @@ sqlite3 /opt/dbspace/.sticker_panel.db "CREATE TABLE IF NOT EXISTS group_icon (
 			, ordering INTEGER
 			, category INTEGER
 			);"
-chsmack -a "sticker-panel::db" /opt/dbspace/.sticker_panel.db*
+#chsmack -a "sticker-panel::db" /opt/dbspace/.sticker_panel.db*
 chmod 666 /opt/dbspace/.sticker_panel.db*
 
 %files
